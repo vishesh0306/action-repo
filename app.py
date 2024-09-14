@@ -4,7 +4,7 @@ app = Flask(__name__)
 #check
 #newcomment
 #nopushkkakak
-#onrenderrrraaaarrrrrr
+#onrenderrrraaaarrrrrrr
 #pushreqaaaaeegyjhjhj
 # Define a route for the homepage
 @app.route('/')
